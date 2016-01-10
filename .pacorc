@@ -1,0 +1,14 @@
+{
+  "traverse": true,
+  "lint": true,
+  "test": true,
+  "build": null,
+  "bump": {
+    "tag": true,
+    "message": "Updates to version %s"
+  },
+  "release": {
+    "push": true,
+    "pushTags": true
+  }
+}
